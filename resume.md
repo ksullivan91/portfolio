@@ -77,8 +77,12 @@ Experienced Full Stack Engineer with a primary focus on UI/UX engineering. Seeki
 
 - **Tools and Platforms:**
   - Adobe Creative Suite (Photoshop, Illustrator, XD)
-  - Figma or Sketch
-  - JIRA or Trello (Project Management)
+  - Figma 
+  - Sketch
+  - JIRA
+  - Auth0
+  - Stripe
+  - Google Suite
 
 - **Collaboration:**
   - Cross-functional Team Collaboration
