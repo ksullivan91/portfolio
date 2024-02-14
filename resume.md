@@ -54,15 +54,15 @@ Experienced Full Stack Engineer with a primary focus on UI/UX engineering. Seeki
 ### Technical Skills
 
 - **UI/UX Design:**
-  - Wireframing and Prototyping
-  - Design Systems
+  - Wireframing and Prototyping with Figma, Sketch, or Balsamiq
   - User Flows and Interaction Design
   - Responsive Web Design
 
 - **Frontend Development:**
-  - React.js
-  - TypeScript
   - JavaScript (ES6+)
+  - jQuery
+  - TypeScript
+  - React.js
   - HTML5
   - PostCSS (including Material-UI and Tailwind CSS)
 
@@ -83,6 +83,8 @@ Experienced Full Stack Engineer with a primary focus on UI/UX engineering. Seeki
   - Auth0
   - Stripe
   - Google Suite
+  - Shopify
+  - Wordpress
 
 - **Collaboration:**
   - Cross-functional Team Collaboration
