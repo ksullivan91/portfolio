@@ -20,7 +20,7 @@ Experienced Full Stack Engineer with a primary focus on UI/UX engineering. Seeki
 **SupplyPike, Rogers, Arkansas**  
 *January 2018 - Present*
 
-- Led the design and development of engaging and user-friendly interfaces, including tools that help SupplyPike internal teams be more efficient as well as improve the general experience for SupplyPike users.
+- Assisted in the design and development of engaging and user-friendly interfaces, including tools that help SupplyPike internal teams be more efficient as well as improve the general experience for SupplyPike users.
 - Collaborated closely with cross-functional teams to ensure a seamless integration of UI/UX designs.
 - Facilitated cross-team collaboration to build tools aimed at increasing team output and efficiency.
 - Mentored junior engineers and interns on systems design and complex production issue resolutions.
