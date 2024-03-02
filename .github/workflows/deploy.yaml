@@ -9,7 +9,10 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Use Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v3
+      with:
+        node-version: '21' # Set the Node version to 21
+        cache: 'npm'
     - name: Install dependencies
       run: npm install
     - name: Build
@@ -17,4 +20,4 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@4.1.0
       with:
-        folder: dist
+        folder: dist  # The folder the action should deploy.
