@@ -903,4 +903,4 @@ Error generating stack: `+i.message+`
 `;ME.defaultProps={variant:"h1"};const zE=ee(ve)`
   max-width: 497px;
   margin-top: 16px !important;
-`;zE.defaultProps={variant:"p"};const DE=()=>z.jsxs(OE,{children:[z.jsxs(yE,{children:[z.jsx(pE,{}),z.jsx(cE,{})]}),z.jsx(EE,{}),z.jsx($E,{}),z.jsx(LE,{children:z.jsx(IE,{})})]});function FE(){return z.jsx(Yy,{children:z.jsx(Vy,{children:z.jsx(Tm,{path:"/",element:z.jsx(DE,{})})})})}ua.createRoot(document.getElementById("root")).render(z.jsx(Fe.StrictMode,{children:z.jsx(FE,{})}));
+`;zE.defaultProps={variant:"p"};const DE=()=>z.jsxs(OE,{children:[z.jsxs(yE,{children:[z.jsx(pE,{}),z.jsx(cE,{})]}),z.jsx(EE,{}),z.jsx($E,{}),z.jsx(LE,{children:z.jsx(IE,{})})]});function FE(){return z.jsx(Yy,{children:z.jsx(Vy,{children:z.jsx(Tm,{path:"/portfolio",element:z.jsx(DE,{})})})})}ua.createRoot(document.getElementById("root")).render(z.jsx(Fe.StrictMode,{children:z.jsx(FE,{})}));
