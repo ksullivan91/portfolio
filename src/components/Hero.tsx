@@ -29,6 +29,10 @@ StyledP.defaultProps = {
 const StyledButton = styled(Button)`
   margin-top: 16px;
   max-width: 254px;
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
 `;
 StyledButton.defaultProps = {
   variant: 'primary',

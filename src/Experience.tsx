@@ -22,21 +22,21 @@ const Experience: React.FC = () => {
         company='SupplyPike'
         duration='01/2017 - 02/2024'
         location='Fayetteville Arkansas'
-        description='Supervise the design and development of engaging and user-friendly interfaces, including tools to promote internal team efficiency and an excellent user experience.'
+        description='As a Software Engineer at SupplyPike, I developed intuitive interfaces that reduced project completion times by 30% and increased user adoption by 15%. My contributions in front-end development and cross-functional UX/UI design integrations led to a 40% boost in user engagement, while my automated workflow solutions saved 50 hours per month, enhancing customer satisfaction and expediting product development.'
       />
       <JobExperience
         title='UI/UX Designer'
         company='SupplyPike'
         duration='01/2017 - 05/2018'
         location='Fayetteville Arkansas'
-        description='Supervise the design and development of engaging and user-friendly interfaces, including tools to promote internal team efficiency and an excellent user experience.'
+        description='As a UI/UX Designer at SupplyPike, I spearheaded the development of compelling user interfaces, advancing team efficiency and user satisfaction. Collaborating with a five-member development team, I ensured the seamless implementation of responsive designs. My efforts in standardizing design elements solidified a unified user experience, while my translation of user feedback into design enhancements significantly contributed to product refinement. I was actively involved in strategic discussions with senior leaders, aiding in informed decision-making and problem resolution.'
       />
       <JobExperience
         title='Web Developer - Team Lead'
-        company='SupplyPike'
+        company='Gearhead'
         duration='04/2014 - 05/2016'
         location='Fayetteville Arkansas'
-        description='Supervise the design and development of engaging and user-friendly interfaces, including tools to promote internal team efficiency and an excellent user experience.'
+        description="As the Web Developer Team Lead at Gearhead, I led a transformative redesign that elevated our online sales by an unprecedented 1150% in just three months. My strategic approach to website analytics and content optimization significantly boosted user engagement. I also played a pivotal role in the smooth integration of third-party tools, substantially enhancing the site's functionality and user experience."
       />
     </Container>
   );

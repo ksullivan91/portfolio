@@ -91,9 +91,7 @@ export const AnimatedNavLink: React.FC<{ children: ReactNode }> = ({
 function TopNav() {
   return (
     <Container>
-      <AnimatedNavLink>
-        <Link to='/'>Kyle Sullivan</Link>
-      </AnimatedNavLink>
+      <AnimatedNavLink>Kyle Sullivan</AnimatedNavLink>
       <AnimatedNavLinkContainer>
         <AnimatedNavLink>
           <Link to='https://github.com/ksullivan91'>Portfolio</Link>
