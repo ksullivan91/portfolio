@@ -670,7 +670,7 @@ Error generating stack: `+i.message+`
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-`,tE=()=>V.jsxs(eE,{children:[V.jsxs(ap,{children:[V.jsx(d0,{children:"Kyle Sullivan Software Engineer"}),V.jsx(p0,{children:"Dedicated Full Stack Developer with a passion for UI/UX. Aiming to apply my design and coding knowledge to enhance user experiences and contribute to innovative web projects."}),V.jsx(h0,{children:V.jsx("a",{href:"/portfolio/assets/Kyle-Sullivan-resume.pdf",children:"Download Resume"})})]}),V.jsx(ap,{children:V.jsx("img",{src:"https://res.cloudinary.com/dcw3kjyjc/image/upload/v1709218016/heroImage_fl1okv.png",alt:"placeholder"})})]}),nE=oe.div`
+`,tE=()=>V.jsxs(eE,{children:[V.jsxs(ap,{children:[V.jsx(d0,{children:"Kyle Sullivan Software Engineer"}),V.jsx(p0,{children:"Dedicated Full Stack Developer with a passion for UI/UX. Aiming to apply my design and coding knowledge to enhance user experiences and contribute to innovative web projects."}),V.jsx(h0,{children:V.jsx("a",{href:"/public/Kyle-Sullivan-resume.pdf",children:"Download Resume"})})]}),V.jsx(ap,{children:V.jsx("img",{src:"https://res.cloudinary.com/dcw3kjyjc/image/upload/v1709218016/heroImage_fl1okv.png",alt:"placeholder"})})]}),nE=oe.div`
   display: flex;
   width: 100%;
   justify-content: space-between;
