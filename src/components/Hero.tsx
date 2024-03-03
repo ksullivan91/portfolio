@@ -51,9 +51,7 @@ export const Hero = () => {
           contribute to innovative web projects.
         </StyledP>
         <StyledButton>
-          <a href='/portfolio/assets/Kyle-Sullivan-resume.pdf'>
-            Download Resume
-          </a>
+          <a href='/public/Kyle-Sullivan-resume.pdf'>Download Resume</a>
         </StyledButton>
       </SectionWrapper>
       <SectionWrapper>
