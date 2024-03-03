@@ -3,7 +3,6 @@ import styled from 'styled-components';
 import Hero from './components/Hero';
 import TopNav from './components/TopNav';
 import Header from './components/Header';
-import Portfolio from './Portfolio';
 import Experience from './Experience';
 import BottomNav from './components/BottomNav';
 import Footer from './components/Footer';
