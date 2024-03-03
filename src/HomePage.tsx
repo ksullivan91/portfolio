@@ -35,7 +35,6 @@ export const HomePage = () => {
         <TopNav />
         <Hero />
       </Header>
-      <Portfolio />
       <Experience />
       <Footer>
         <BottomNav />

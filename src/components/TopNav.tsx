@@ -96,10 +96,12 @@ function TopNav() {
       </AnimatedNavLink>
       <AnimatedNavLinkContainer>
         <AnimatedNavLink>
-          <Link to='/portfolio'>Portfolio</Link>
+          <Link to='https://github.com/ksullivan91'>Portfolio</Link>
         </AnimatedNavLink>
         <AnimatedNavLink>
-          <Link to='/contact'>Contact</Link>
+          <Link to='https://www.linkedin.com/in/kyle-sullivan-5a337813a/'>
+            Contact
+          </Link>
         </AnimatedNavLink>
       </AnimatedNavLinkContainer>
     </Container>

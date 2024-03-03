@@ -25,9 +25,16 @@ const Experience: React.FC = () => {
         description='Supervise the design and development of engaging and user-friendly interfaces, including tools to promote internal team efficiency and an excellent user experience.'
       />
       <JobExperience
-        title='Software Engineer'
+        title='UI/UX Designer'
         company='SupplyPike'
-        duration='01/2017 - 02/2024'
+        duration='01/2017 - 05/2018'
+        location='Fayetteville Arkansas'
+        description='Supervise the design and development of engaging and user-friendly interfaces, including tools to promote internal team efficiency and an excellent user experience.'
+      />
+      <JobExperience
+        title='Web Developer - Team Lead'
+        company='SupplyPike'
+        duration='04/2014 - 05/2016'
         location='Fayetteville Arkansas'
         description='Supervise the design and development of engaging and user-friendly interfaces, including tools to promote internal team efficiency and an excellent user experience.'
       />

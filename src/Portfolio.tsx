@@ -20,14 +20,6 @@ const Container = styled.div`
   }
 `;
 
-// const CardsContainer = styled.div`
-//   display: flex;
-//   justify-content: space-between;
-//   gap: 24px;
-//   padding: 16px 0px 0px 16px;
-//   flex-wrap: wrap;
-// `;
-
 const CardContainer = styled.div`
   border-radius: 8px;
   box-sizing: border-box;

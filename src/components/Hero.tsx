@@ -44,13 +44,17 @@ export const Hero = () => {
   return (
     <Container>
       <SectionWrapper>
-        <StyledH1>Kyle Sullivan Front-End Engineer</StyledH1>
+        <StyledH1>Kyle Sullivan Software Engineer</StyledH1>
         <StyledP>
           Dedicated Full Stack Developer with a passion for UI/UX. Aiming to
           apply my design and coding knowledge to enhance user experiences and
           contribute to innovative web projects.
         </StyledP>
-        <StyledButton>Download Resume</StyledButton>
+        <StyledButton>
+          <a href='/portfolio/assets/Kyle-Sullivan-resume.pdf'>
+            Download Resume
+          </a>
+        </StyledButton>
       </SectionWrapper>
       <SectionWrapper>
         <img
